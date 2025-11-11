@@ -24,7 +24,7 @@ url: http://localhost:8000/docs
         Install Npm and Nodejs
     </li>
     <li>
-        git Clone my project https://github.com/arpitkr777/ecomfastapireact
+        git Clone my project https://github.com/arpitkr777/ecommerce-shop
     </li>
     <li>
         directory project backend and pipenv install
